@@ -1,6 +1,54 @@
 ﻿body {
+<<<<<<< HEAD
 table, th, td {
     border: 1px solid black;
 }
  
 }
+=======
+
+ 
+}
+table, th, td {
+    border: 1px solid black;
+}
+
+tbody > tr > th{
+	font-style:italic;
+	font-weight:normal;
+}
+tbody > tr:nth-child(odd){
+	background:#9F0;
+}
+tbody > tr:nth-child(even){
+	background:#0CF;
+}
+tbody > tr > td:nth-child(2){
+	color:#F00;
+}
+tbody > tr > td:nth-child(4){
+	color:#00F;
+}
+
+dt:hover + dd{
+	background:#909;
+}
+form {
+	border-width: 5px;
+	border-style: double;
+}
+.outer_content{
+	background-color:#F9C;
+	margin-top:20px;
+	width:75%;
+}
+.inner_content{
+	background-color:#39C;
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
+}
+img{
+	float:left;
+}
+>>>>>>> style.css
