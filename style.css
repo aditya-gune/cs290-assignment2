@@ -35,3 +35,9 @@ form {
 	margin-top:20px;
 	width:75%;
 }
+.inner_content{
+	background-color:#39C;
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
+}
