@@ -1,14 +1,4 @@
-﻿body {
-<<<<<<< HEAD
-table, th, td {
-    border: 1px solid black;
-}
- 
-}
-=======
-
- 
-}
+﻿
 table, th, td {
     border: 1px solid black;
 }
@@ -51,4 +41,3 @@ form {
 img{
 	float:left;
 }
->>>>>>> style.css
