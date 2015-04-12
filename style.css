@@ -30,3 +30,8 @@ form {
 	border-width: 5px;
 	border-style: double;
 }
+.outer_content{
+	background-color:#F9C;
+	margin-top:20px;
+	width:75%;
+}
